@@ -7,9 +7,8 @@ public class Test : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Hello word");
-
         SayHello();
+        Debug.Log("Good bye");
     }
 
     private void SayHello()
